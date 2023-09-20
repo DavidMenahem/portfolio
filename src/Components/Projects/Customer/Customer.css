@@ -1,0 +1,19 @@
+.customer{
+    position: relative;
+    display: grid;
+    grid-template-rows: 15vh 5vh 45vh;
+    text-align: center;
+}
+.customer-image{
+    width: 600px;
+}
+.customer-header{
+    grid-row: 1;
+    text-align: center;
+}
+.customer-links{
+    grid-row: 2;
+}
+.customer-images{
+    grid-row: 3;
+}

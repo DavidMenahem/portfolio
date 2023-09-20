@@ -1,0 +1,19 @@
+.coupon{
+    position: relative;
+    display: grid;
+    grid-template-rows: 15vh 5vh 45vh;
+    text-align: center;
+}
+.coupon-image{
+    width: 600px;
+}
+.coupon-header{
+    grid-row: 1;
+    text-align: center;
+}
+.coupon-links{
+    grid-row: 2;
+}
+.coupon-images{
+    grid-row: 3;
+}
