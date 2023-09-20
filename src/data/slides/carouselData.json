@@ -1,0 +1,27 @@
+{
+    "slides":[
+        {
+            "src": "gadget-locate.png",
+            "alt":"",
+            "title": "The gadget finder",
+            "link": "the_gadget_finder"
+        },
+        {
+            "src": "customer-main.png",
+            "alt":"",
+            "title": "Customer file manager",
+            "link": "customer_file_manager"
+        },
+        {
+            "src":"coupon-add.png",
+            "alt":"",
+            "title": "Coupon managment system",
+            "link": "coupon_mangement_system"
+        },        {
+            "src":"stock-chart.png",
+            "alt":"",
+            "title": "Stock chart",
+            "link": "stock-chart/stock-chart-big.png"
+        }
+    ]
+}

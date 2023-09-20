@@ -1,0 +1,22 @@
+{
+    "customerSlides":[
+        {
+            "src": "customer-main.png",
+            "alt":"",
+            "title": "Main",
+            "link": "customer-main-big.png"
+        },
+        {
+            "src": "customer-add.png",
+            "alt":"",
+            "title": "Add customer",
+            "link": "customer-add-big.png"
+        },
+        {
+            "src":"customer-folder.png",
+            "alt":"",
+            "title": "Folder",
+            "link": "customer-folder-big.png"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "couponSlides":[
+        {
+            "src": "coupon-login.png",
+            "alt":"",
+            "title": "Login",
+            "link": "coupon-login-big.png"
+        },
+        {
+            "src": "coupon-add.png",
+            "alt":"",
+            "title": "Add coupon",
+            "link": "coupon-add-big.png"
+        },
+        {
+            "src":"coupon-companies.png",
+            "alt":"",
+            "title": "Companies page",
+            "link": "coupon-companies-big.png"
+        }
+    ]
+}
