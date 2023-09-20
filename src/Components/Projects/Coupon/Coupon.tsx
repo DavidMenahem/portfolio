@@ -29,7 +29,7 @@ function Coupon({ data } : slides): JSX.Element{
                             return <div className={slide === idx ? "slide" : "slide-hidden"} key={idx}>
                             <NavLink to={/large_image/ + item.link}>
                             <div className="title" key={idx + "-ctitle"}>{item.title}</div>
-                            <img src={"/public/images/" + item.src} alt={item.alt} key={idx + "-cimage"}/></NavLink>
+                            <img src={item.src} alt={item.alt} key={idx + "-cimage"}/></NavLink>
                             </div>
                         })}
                     <BsArrowLeftCircleFill className="arrow arrow-left" onClick={nextSlide}/>

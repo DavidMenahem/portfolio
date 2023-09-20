@@ -12,9 +12,9 @@ function Gadget(): JSX.Element{
             <a href="https://play.google.com/store/apps/details?id=com.david.thegadjetfinder&pli=1" target="_blank">Download from Google play</a>
         </div>
         <div className="gadget-images">
-            <img src="/public/images/gadget-login.png" className="image-gadget"></img>
-            <img src="/public/images/gadget-add.png" className="image-gadget"></img>
-            <img src="/public/images/gadget-locate.png" className="image-gadget"></img>
+            <img src="https://i.postimg.cc/3WnpBy1M/gadget-login.png" className="image-gadget"></img>
+            <img src="https://i.postimg.cc/7JYz4DxQ/gadget-add.png" className="image-gadget"></img>
+            <img src="https://i.postimg.cc/MXWVV0yb/gadget-locate.png" className="image-gadget"></img>
         </div>
     </div>);
 }

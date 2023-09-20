@@ -1,22 +1,22 @@
 {
     "couponSlides":[
         {
-            "src": "coupon-login.png",
+            "src": "https://i.postimg.cc/FdvcP3wv/coupon-login.png",
             "alt":"",
             "title": "Login",
-            "link": "coupon-login-big.png"
+            "link": "https://i.postimg.cc/Vrzr91bL/coupon-login-big.png"
         },
         {
-            "src": "coupon-add.png",
+            "src": "https://i.postimg.cc/sBh9HVXY/coupon-add.png",
             "alt":"",
             "title": "Add coupon",
-            "link": "coupon-add-big.png"
+            "link": "https://i.postimg.cc/5625d5yN/coupon-add-big.png"
         },
         {
-            "src":"coupon-companies.png",
+            "src":"https://i.postimg.cc/0MGGxc7r/coupon-companies.png",
             "alt":"",
             "title": "Companies page",
-            "link": "coupon-companies-big.png"
+            "link": "https://i.postimg.cc/wtXRs3MG/coupon-companies-big.png"
         }
     ]
 }

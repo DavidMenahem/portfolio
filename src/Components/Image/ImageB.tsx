@@ -5,7 +5,7 @@ function ImageB(): JSX.Element{
     const link = params.link;
     return(
         <div className="image-container">
-            <img src={"/public/images/" + link} alt={link} width="100%"></img>
+            <img src={link} alt={link} width="100%"></img>
         </div>
     )
 }

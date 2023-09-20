@@ -1,22 +1,22 @@
 {
     "customerSlides":[
         {
-            "src": "customer-main.png",
+            "src": "https://i.postimg.cc/hJTTbpyM/customer-main.png",
             "alt":"",
             "title": "Main",
-            "link": "customer-main-big.png"
+            "link": "https://i.postimg.cc/BLN8Myx5/customer-main-big.png"
         },
         {
-            "src": "customer-add.png",
+            "src": "https://i.postimg.cc/1n10LLnL/customer-add.png",
             "alt":"",
             "title": "Add customer",
-            "link": "customer-add-big.png"
+            "link": "https://i.postimg.cc/v1F6B5Yn/customer-add-big.png"
         },
         {
-            "src":"customer-folder.png",
+            "src":"https://i.postimg.cc/bZK1tKTs/customer-folder.png",
             "alt":"",
             "title": "Folder",
-            "link": "customer-folder-big.png"
+            "link": "https://i.postimg.cc/FkRYqZZM/customer-folder-big.png"
         }
     ]
 }

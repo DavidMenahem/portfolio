@@ -22,7 +22,7 @@ export const Carousel =({ data } : slides) =>{
                         return <div className={slide === idx ? "slide" : "slide-hidden"} key={idx}>
                         <NavLink to={item.link}>
                         <div className="title" key={idx + "-title"}>{item.title}</div>
-                        <img src={"/public/images/" + item.src} alt={item.alt} key={idx + "-image"}/></NavLink>
+                        <img src={"https://github.com/dvmena36/portfolio/blob/master/public/images/" + item.src} alt={item.alt} key={idx + "-image"}/></NavLink>
                         </div>
                     })}
                 <BsArrowLeftCircleFill className="arrow arrow-left" onClick={nextSlide}/>
