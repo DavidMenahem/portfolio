@@ -1,19 +1,26 @@
 .coupon{
-    position: relative;
-    display: grid;
-    grid-template-rows: 15vh 5vh 45vh;
-    text-align: center;
-}
-.coupon-image{
-    width: 600px;
+
 }
 .coupon-header{
-    grid-row: 1;
     text-align: center;
 }
 .coupon-links{
-    grid-row: 2;
+    text-align: center;
+    padding: 1rem;
 }
-.coupon-images{
-    grid-row: 3;
+.coupon-links a{
+    border: 2px solid black;
+    background-color: rgb(90, 90, 231);
+    border-radius: 10%;
 }
+
+
+.coupon-links a{
+    color: navy;
+    height: fit-content;
+    padding: 15px;
+  }
+  .coupon-links a:hover{
+    color: red;
+    cursor: pointer;
+  }

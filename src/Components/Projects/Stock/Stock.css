@@ -1,10 +1,13 @@
-.customer{
+.stock{
     position: relative;
     display: grid;
     grid-template-rows: 30vh 70vh;
     text-align: center;
 }
-.customer-header{
+.stock-header{
     grid-row: 1;
     text-align: center;
+}
+.stock{
+    grid-row: 3;
 }

@@ -1,12 +1,8 @@
 .gadget{
     position: relative;
     display: grid;
-    grid-template-rows: 15vh 5vh 45vh;
+    grid-template-rows: 20vh 10vh 70vh;
     text-align: center;
-}
-.image-gadget{
-    width: 240px;
-    height: 510px;
 }
 .gadget-header{
     grid-row: 1;
@@ -18,3 +14,12 @@
 .gadget-images{
     grid-row: 3;
 }
+.gadget-links > a{
+    color: navy;
+    height: fit-content;
+    padding: 15px;
+  }
+  .gadget-links > a :hover{
+    color: red;
+    cursor: pointer;
+  }

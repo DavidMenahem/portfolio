@@ -1,22 +1,18 @@
 import { Routes,Route } from "react-router-dom"
-import Gadget from "../../Projects/Gadget/Gadget"
-import Carousel from "../../Carousel/Carousel"
-import {slides} from "../../../data/slides/carouselData.json"
 import Customer from "../../Projects/Customer/Customer"
-import ImageB from "../../Image/ImageB"
 import Coupon from "../../Projects/Coupon/Coupon"
+import Stock from "../../Projects/Stock/Stock"
+import Main from "../../Main/Main"
 
 function Routing(): JSX.Element{
-    return <>
-            <div className="Routing">
+    return(
                 <Routes>
-                    <Route path="/" element = {<Carousel data={slides} /> }></Route>
-                    <Route path="/the_gadget_finder" element={<Gadget/>}></Route>
-                    <Route path="/customer_file_manager" element={<Customer/>}></Route>
-                    <Route path="/coupon_mangement_system" element={<Coupon/>}></Route>
-                    <Route path="/stock-chart/:link" element={<ImageB />}></Route>
-                </Routes>    
-            </div>  
-    </>
+                    <Route path="/" element = {<Main/> }></Route>
+                    <Route path="/customer" element={<Customer/>}></Route>
+                    <Route path="/coupon" element={<Coupon/>}></Route>
+                    <Route path="/stock" element={<Stock/>}></Route>
+                </Routes>
+    )    
+  
 }
 export default Routing
