@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.93435c72.css",
+    "main.css": "/portfolio/static/css/main.c80e4511.css",
     "main.js": "/portfolio/static/js/main.04bdf91f.js",
     "static/media/coupon-add-big.png": "/portfolio/static/media/coupon-add-big.5c33745f2eed51e1e040.png",
     "static/media/coupon-companies-big.png": "/portfolio/static/media/coupon-companies-big.d127d49a09d8d92e4a9f.png",
@@ -9,11 +9,11 @@
     "static/media/coupon-add.png": "/portfolio/static/media/coupon-add.a795b9da177953a605a6.png",
     "static/media/profile-picture.png": "/portfolio/static/media/profile-picture.58a9da6816f6e1dd94dc.png",
     "index.html": "/portfolio/index.html",
-    "main.93435c72.css.map": "/portfolio/static/css/main.93435c72.css.map",
+    "main.c80e4511.css.map": "/portfolio/static/css/main.c80e4511.css.map",
     "main.04bdf91f.js.map": "/portfolio/static/js/main.04bdf91f.js.map"
   },
   "entrypoints": [
-    "static/css/main.93435c72.css",
+    "static/css/main.c80e4511.css",
     "static/js/main.04bdf91f.js"
   ]
 }
